@@ -1,3 +1,4 @@
 # proyectobullying
-Proyecto Formulario Bullying
-preview: https://rodrigoezequiel.github.io/projectobullying/
+Proyecto Formulario Bullying.
+
+ preview: https://rodrigoezequiel.github.io/projectobullying/
